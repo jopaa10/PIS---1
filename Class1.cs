@@ -8,5 +8,6 @@ namespace ConsoleApp8
 {
     class Class1
     {
+        Console.Write("HAHA");
     }
 }
